@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanwhi
+- 👋 Hi, I’m @deikin
 - 👀 I’m interested in ... Learning how to use my coding knowledge in a work enviorment.
 - 🌱 I’m currently learning ... Python for automation
 - 💞️ I’m looking to collaborate on ... Automation 
